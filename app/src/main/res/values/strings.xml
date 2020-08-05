@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New Nested</string>
+    <string name="first_text">Welcome to Your World of Tech</string>
+    <string name="second_text">Here You Would learn lots of things</string>
+    <string name="third_text">Thanks for your concern in tech</string>
+    <string name="next">Next</string>
+    <string name="skip">skip</string>
+</resources>
